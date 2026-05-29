@@ -1,0 +1,21 @@
+=== SOC FLAG REPORT ===
+
+Name: Jessa Meh Tanza
+Cyber Handle: Bytestrong
+Score: 8/10
+Rating: Junior Analyst
+
+=== USER ANSWERS ===
+Q1: flag{auth.log}
+Q2: flag{10}
+Q3: flag{192.168.1.5}
+Q4: flag{203.0.113.50}
+Q5: flag{203.0.113.50}
+Q6: flag{yes}
+Q7: grep FLAG auth.log
+Q8:  flag{grep -Ei "flag|hidden|ctf" /var/log/auth.log}
+Q9: flag{45.33.32.1}
+Q10: flag{203.0.113.50-10-203.0.113.50}
+
+=== RESULT ===
+Status: NEEDS IMPROVEMENT
