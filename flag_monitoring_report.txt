@@ -1,0 +1,21 @@
+=== SOC FLAG REPORT ===
+
+Name: RUSSEL ADRIANE V. SANEO
+Cyber Handle: CyberAlly
+Score: 1/10
+Rating: Trainee
+
+=== USER ANSWERS ===
+Q1: auth.log
+Q2: 10
+Q3: 45.33.32.1 
+Q4: 203.0.113.50
+Q5: 203.0.113.50
+Q6: yes
+Q7: grep "Flag" auth.log
+Q8: idk
+Q9: 45.33.32.1
+Q10: {45.33.32.1 - 4 - 203.0.113.50}
+
+=== RESULT ===
+Status: TRAINING REQUIRED
